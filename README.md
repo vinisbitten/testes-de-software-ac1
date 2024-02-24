@@ -5,7 +5,7 @@ Atividade Contínua 01 da disciplina de Automação de Testes de Software.
 ## Integrantes
 
 - **Vinícius Bittencourt dos Santos** - 2201032
-- **Carlos Henrique de Castro Verçosa Albuquerque** - 2201063
+- **Carlos Henrique de Castro Verçosa Albuquerque** - 2200823
 
 ## Instalação
 
